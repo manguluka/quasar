@@ -11,5 +11,5 @@ downcast-rs = "0.1.2"
 uuid = { version = "0.4.0", features = ["v4"] }
 
 [dependencies.webplatform]
-#git = "https://github.com/anowell/rust-webplatform.git"
-path = "../rust-webplatform"
+git = "https://github.com/anowell/rust-webplatform.git"
+#path = "../rust-webplatform"
